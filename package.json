@@ -1,0 +1,20 @@
+{
+  "name": "vue-echo-children",
+  "version": "1.0.0",
+  "description": "Render multiple nodes in Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "echo",
+    "vdom"
+  ],
+  "author": "Jake Hamilton <jehamilton122@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakehamilton/vue-echo-children.git"
+  }
+}
